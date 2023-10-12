@@ -1,3 +1,13 @@
+Zombie Master 1.2.1 Source Code
+
+Copy of the publicly available source code from moddb:
+
+https://www.moddb.com/mods/zombie-master/downloads/zombie-master-121-source-code
+
+
+
+
+
 ***************************************
 Zombie Master Beta 1.2.1 
 Source code release README
